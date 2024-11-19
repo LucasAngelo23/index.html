@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Claritox Pro</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Roboto', sans-serif;
+        }
+        header {
+            background-color: #39B54A;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 10px 0;
+        }
+        header img {
+            max-width: 30%;
+        }
+        .hero {
+            background-color: #197A3D;
+            text-align: center;
+            color: #fff;
+            padding: 20px 10px;
+        }
+        .hero h1 {
+            font-size: 2.5rem;
+        }
+        .hero button {
+            background-color: #197A3D;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-size: 1.2rem;
+        }
+        .content {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding: 20px 10px;
+            gap: 20px;
+            background-color: #F7FAF8;
+        }
+        .content img {
+            max-width: 100%;
+        }
+        .footer {
+            background-color: #39B54A;
+            text-align: center;
+            padding: 20px;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <img src="https://claritox.linkofficial.online/wp-content/uploads/2024/09/logo-header-two-tone-en.png" alt="Claritox Logo">
+    </header>
+
+    <section class="hero">
+        <h1>Claritox Pro™</h1>
+        <p>Order Now</p>
+        <button onclick="window.location.href='https://claritox.com/text.php?&shield=e5616vx5mcte80c6wz5avk0v43'">Order Now</button>
+    </section>
+
+    <section class="content">
+        <img src="https://claritox.linkofficial.online/wp-content/uploads/2024/09/1-BOTTLE.png" alt="Product Image">
+        <img src="https://claritox.linkofficial.online/wp-content/uploads/2024/09/buy-now.png" alt="Buy Now">
+        <img src="https://claritox.linkofficial.online/wp-content/uploads/2024/09/Design-sem-nome-4-e1726859192531.png" alt="Guarantee">
+        <p>
+            ACCESS THE OFFICIAL WEBSITE
+        </p>
+    </section>
+
+    <footer class="footer">
+        <p>Copyright © 2024 Claritox Pro | All Rights Reserved</p>
+    </footer>
+
+</body>
+</html>
